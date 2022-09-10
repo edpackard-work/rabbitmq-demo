@@ -11,9 +11,9 @@ Python3
 
 # Installation
 
-Clone this repo and navigate to root directory `/rabbitmq`
-
-Then run the following commands:
+1. Clone this repo `git clone https://github.com/edpackard-work/rabbitmq-demo.git`
+2. Navigate to root directory `/rabbitmq-demo`
+3. Run the following commands:
 
 ```
 cd rabbitmq-producer
